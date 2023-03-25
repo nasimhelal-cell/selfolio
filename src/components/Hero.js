@@ -3,8 +3,8 @@ import { useHoverEffect } from "../hooks/useHoverEffect";
 import { useHeadlineReveal, useImageScaler } from "../hooks/gsap";
 
 const data = {
-  img1: "https://res.cloudinary.com/dpkbthpcw/image/upload/v1674222467/Personal%20Portfolio/hero-1_jcy0jj.jpg",
-  img2: "https://res.cloudinary.com/dpkbthpcw/image/upload/v1674222467/Personal%20Portfolio/hero-2_sk0wmq.jpg",
+  img1: "https://i.ibb.co/VmTj5C3/nasimhelal.jpg",
+  img2: "https://i.ibb.co/vPXnSfZ/nasim-helal.jpg",
 };
 
 const Hero = () => {
@@ -23,7 +23,7 @@ const Hero = () => {
       <div className="hero-image" ref={heroImageRef}></div>
       <div className="shutter shutter-l overflow-hidden">
         <h1 className="hero-headline-1" ref={headline1Ref}>
-          MERN Stack
+          Front - end
         </h1>
       </div>
       <div className="shutter shutter-r overflow-hidden">

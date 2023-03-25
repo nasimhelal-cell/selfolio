@@ -5,32 +5,28 @@ const data = [
   {
     id: 1,
     title: "Facebook",
-    url: "https://www.facebook.com/spectra.shohan",
+    url: "https://www.facebook.com/nasim.helal.39",
   },
+
   {
     id: 2,
-    title: "Instagram",
-    url: "https://www.instagram.com/spectra.shohan",
+    title: "Twitter",
+    url: "https://twitter.com/helal_nasim",
   },
   {
     id: 3,
-    title: "Twitter",
-    url: "https://twitter.com/elysianshohan",
+    title: "LinkedIn",
+    url: "https://www.linkedin.com/in/nasimhelal/",
   },
   {
     id: 4,
-    title: "LinkedIn",
-    url: "https://www.linkedin.com/in/shohan-pherones",
+    title: "GitHub",
+    url: "https://github.com/nasimhelal-cell",
   },
   {
     id: 5,
-    title: "GitHub",
-    url: "https://github.com/shohan-pherones",
-  },
-  {
-    id: 6,
     title: "Leetcode",
-    url: "https://leetcode.com/spectrashohan",
+    url: "https://leetcode.com/NasimHelal/",
   },
 ];
 

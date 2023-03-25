@@ -16,7 +16,7 @@ const Footer = () => {
           to="#home"
           className="link hover:text-white duration-500"
         >
-          Md. Shohanur Rahman
+          Nasim Helal
         </HashLink>
         . Crafted by yours truly
       </p>

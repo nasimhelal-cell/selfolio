@@ -52,7 +52,7 @@ const data = [
   },
   {
     id: 12,
-    skill: "Redux Toolkit",
+    skill: "Next.js",
   },
   {
     id: 13,

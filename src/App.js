@@ -9,6 +9,8 @@ import Navbar from "./components/Navbar";
 import Socials from "./components/Socials";
 import Home from "./components/Home";
 import Footer from "./components/Footer";
+import Portfolios from "./pages/Portfolios";
+import PortfolioDetails from "./components/PortfolioDetails";
 
 const App = () => {
   let innerCursor = useRef(null);
@@ -29,6 +31,8 @@ const App = () => {
       <Socials />
       <Routes>
         <Route path="/" element={<Home />} />
+        <Route path="/portfolios" element={<Portfolios />} />
+        <Route path="/portfolios/:id" element={<PortfolioDetails />} />
       </Routes>
       <Navbar navInFooter />
       <Footer />
